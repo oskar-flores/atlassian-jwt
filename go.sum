@@ -1,0 +1,6 @@
+github.com/dgrijalva/jwt-go v3.2.0+incompatible h1:7qlOGliEKZXTDg6OTjfoBKDXWrumCAMpl/TFQ4/5kLM=
+github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:E3ru+11k8xSBh+hMPgOLZmtrrCbhqsmaPHjLKYnJCaQ=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/rbriski/atlassian-jwt v0.0.0-20180307182949-7bb4ae273058 h1:AROq9KKlNek4w/eyLYFj8ERck1YM6VlD0xVHrhW8bes=
+github.com/rbriski/atlassian-jwt v0.0.0-20180307182949-7bb4ae273058/go.mod h1:XyGMZTE42wKGRdQsEH/t0FY0PzjIANRzPjWQbwWApmU=
